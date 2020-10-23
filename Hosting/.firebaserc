@@ -1,4 +1,3 @@
-// ค่าเริ่มต้นของไฟล์ .firebaserc
 {
   "projects": {
     "default": "liff-test-log"
